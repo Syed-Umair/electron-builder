@@ -85,7 +85,7 @@
     "@types/stat-mode": "^0.2.0",
     "babel-preset-ts-node6-bluebird": "^2.0.4",
     "convert-source-map": "^1.5.1",
-    "decompress-zip": "^0.3.1",
+    "decompress-zip": "^0.3.2",
     "depcheck": "^0.6.9",
     "develar-typescript-json-schema": "0.20.0",
     "electron-builder-tslint-config": "^1.1.0",
